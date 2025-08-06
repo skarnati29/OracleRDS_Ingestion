@@ -1,0 +1,1 @@
+-- SQL to create metadata table

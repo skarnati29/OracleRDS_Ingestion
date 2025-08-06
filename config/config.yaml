@@ -1,0 +1,4 @@
+oracle:
+  dsn: ${ORACLE_DSN}
+  username: ${ORACLE_USER}
+  password: ${ORACLE_PASS}
